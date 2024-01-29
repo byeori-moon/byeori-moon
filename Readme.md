@@ -59,7 +59,7 @@
  ## 👩‍💻 Algorithm 👩‍💻
 <div style="display:flex; flex-direction:row;">
      <br>
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=moongbyeol)](https://solved.ac/moongbyeol)
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moongbyeol)](https://solved.ac/moongbyeol/)
 </div><br>
 
 
