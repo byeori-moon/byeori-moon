@@ -72,8 +72,8 @@
     </a>
 </div><br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeori-moon)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeori-moon)
 [![moongbyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeori-moon&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/byeori-moon/github-readme-stats)
 
 
