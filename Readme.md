@@ -11,7 +11,7 @@
 <br>
 
 ## 💻 DEV's log 💻
-
+[![NaverBlog's Card](https://github-readme-tistory-card.vercel.app/api?name=mblee2&theme=default)]([https://blog.naver.com/mblee2](https://blog.naver.com/mblee2))
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=moongbyeol&theme=default)]([https://moongbyeol.tistory.com/](https://moongbyeol.tistory.com/))
 
 ## 📞 Contact 📞
