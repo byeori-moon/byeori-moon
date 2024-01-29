@@ -26,7 +26,7 @@
     <!-- Game/VR/AR -->
     <p><strong>Game/VR/AR</strong></p>
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
     <div>
     <!-- Programming Language -->
     <p><strong>Programming Language</strong></p>
