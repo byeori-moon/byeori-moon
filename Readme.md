@@ -57,8 +57,11 @@
 
 
  ## 👩‍💻 Algorithm 👩‍💻
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=moongbyeol)](https://solved.ac/moongbyeol)
+<div style="display:flex; flex-direction:row;">
+     <br>
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=moongbyeol)](https://solved.ac/moongbyeol)
+</div><br>
+
 
 
 
