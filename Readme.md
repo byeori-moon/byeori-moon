@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
     <div>
     <!-- Design -->
-    <p><strong>Collaboration</strong></p>
+    <p><strong>Design</strong></p>
         <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
         <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
         <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
@@ -57,10 +57,7 @@
 
 
  ## 👩‍💻 Algorithm 👩‍💻
-<div style="display:flex; flex-direction:row;">
-     <br>
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moongbyeol)](https://solved.ac/moongbyeol/)
-</div><br>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moongbyeol)](https://solved.ac/moongbyeol/)
 
 
 
