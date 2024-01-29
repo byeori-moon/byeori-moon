@@ -12,8 +12,7 @@
 
 ## 💻 DEV's log 💻
 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=moongbyeol&theme=default)]([https://moongbyeol.tistory.com/](https://moongbyeol.tistory.com/))
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -30,39 +29,39 @@
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
         <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     </div>
     <!-- Game/VR/AR -->
     <p><strong>Game/VR/AR</strong></p>
-        <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
     <div>
     <!-- Programming Language -->
     <p><strong>Programming Language</strong></p>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
     <div>
     <!-- Collaboration -->
     <p><strong>Collaboration</strong></p>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-        <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-        <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
     <div>
     <!-- Design -->
     <p><strong>Collaboration</strong></p>
         <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
         <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
         <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
-        <img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
-        <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Adobe After Effect-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
     <div>
 </div><br>
 </div>
