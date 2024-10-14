@@ -61,11 +61,6 @@
 ### 🐾 PetDoctor - 반려동물 AI 진단 어플
 
 <table>
-  <thead>
-    <tr>
-      <th colspan="2" style="background-color:#FFD700; font-size:20px; padding:10px; text-align:center;">🐾 PetDoctor - 반려동물 AI 진단 어플</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><b>Platform</b></td>
