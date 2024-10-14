@@ -58,22 +58,23 @@
 
 ## 🌟 Projects 🌟
 
-### 🐾 PetDoctor
-|                                  |
+### WEB/APP Projects
+
+|           🐾 PetDoctor            |
 |----------------------------------|
 | **Platform:** Android (Flutter)  |
 | **Description:** 반려동물 피부질환/비만도 진단 어플  |
-| **Highlight:** 💡 경진대회 대상 수상작  |
+| **Highlight: 경진대회 대상 수상작**  |
 | **Repository:** [🐾 PetDoctor 프로젝트 레포지토리🐾](https://github.com/username/PetDoctor) |
 
 ---
 
-### 🐧 **PENGY**                 
-| **Platform**          | Android (Flutter)  |
-|----------------------|--------------------|
-| **Description**      | 재난대피 및 예방 교육용 어플  |
-| **Highlight**        | **2024 Google Solution Challenge에서 전 세계 3000여팀 이상 中 Global Top 100 선정**  |
-| **Repository**       | [🐧PENGY 프로젝트 레포지토리🐧](https://github.com/byeori-moon/GSCFront) |
+|           **🐧 PENGY**                |
+|---------------------------------------|
+| **Platform:** Android (Flutter)       |
+| **Description:** 재난대피 및 예방 교육용 어플        |
+| **Highlight:** > **2024 Google Solution Challenge에서 전 세계 3000여 팀 중 Global Top 100 선정**  |
+| **Repository:** [🐧 PENGY 프로젝트 레포지토리🐧](https://github.com/byeori-moon/GSCFront) |
 
 ---
 
