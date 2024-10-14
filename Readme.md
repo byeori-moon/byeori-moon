@@ -59,8 +59,11 @@
 ## 🌟 Projects 🌟
 
 ### 🐾 PetDoctor
-#### 🎖️ **캡스톤디자인 경진대회 대상 수상작** 🎖️
-
+  <div style="font-size: 1.2em; font-weight: bold; color: #FFD700;">
+    🎖️ <span style="font-size: 1.5em;">**캡스톤디자인 경진대회**</span> 🎖️  
+    <br>
+    🏆 **대상 수상작** 🏆
+  </div>
 <table>
   <tbody>
     <tr>
