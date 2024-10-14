@@ -60,12 +60,13 @@
 
 ### WEB/APP Projects
 
-|           🐾 PetDoctor            |
+|           🐾 **PetDoctor**        |
 |----------------------------------|
-| **Platform:** Android (Flutter)  |
-| **Description:** 반려동물 피부질환/비만도 진단 어플  |
-| **Highlight: 경진대회 대상 수상작**  |
-| **Repository:** [🐾 PetDoctor 프로젝트 레포지토리🐾](https://github.com/username/PetDoctor) |
+| **🎖️ 경진대회 대상 수상작**            |
+| **📱 Platform:** Android          |
+| **🛠️ Technology:** Flutter     |
+| 반려동물 피부질환 및 비만도 진단 어플  |
+| [🐾 PetDoctor 프로젝트 레포지토리🐾](https://github.com/username/PetDoctor) |
 
 ---
 
