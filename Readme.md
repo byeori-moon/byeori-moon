@@ -58,12 +58,12 @@
 
 ## 🌟 Projects 🌟
 
-### 🐾 **PetDoctor** 
-| **Platform**           Android (Flutter)  |
-|------------------------------------------|
-| **Description**      | 반려동물 피부질환/비만도 진단 어플  |
-| **Highlight**        |  **경진대회 대상 수상작**  |
-| **Repository**       | [🐾PetDoctor 프로젝트 레포지토리🐾](https://github.com/byeori-moon/PetDoctor_Frontend) |
+| **🐾 PetDoctor**                       |
+|----------------------------------------|
+| **Platform**   | Android (Flutter)                  |
+| **Description** | 반려동물 피부질환/비만도 진단 어플    |
+| **Highlight**   | 💡 경진대회 대상 수상작              |
+| **Repository**  | [🐾PetDoctor 프로젝트 레포지토리🐾](https://github.com/byeori-moon/PetDoctor_Frontend) |
 
 ---
 
