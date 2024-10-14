@@ -1,9 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+moongbyeol's+GitHub!👋)](https://git.io/typing-svg)
 
-<div align="left">
+<div align="center">
+
+### 🌟 주요 프로젝트 🌟
+
+| **프로젝트 이름**             | **설명**                               | **링크**                                |
+|-----------------------------|--------------------------------------|----------------------------------------|
+| 🐾 **PetDoctor**             | (Android) Flutter로 개발한 반려동물 피부질환/비만도 진단 어플. 💡 Linc사업단 주최 캡스톤디자인 경진대회 대상 수상 | [바로가기](https://github.com/byeori-moon/PetDoctor_Frontend) |
+| 🎮 **3vs3 Bulls and Cows**   | (Window, Mac)3대3 멀티플레이 숫자야구 게임. | [바로가기](https://github.com/byeori-moon/3vs3BullsAndCows) |
+| 🚗 **오늘은 푸앙이츠!**      | (VR) Unity로 개발한 자동차 운전/배달 시뮬레이션 VR 게임. | [바로가기](https://github.com/byeori-moon/Delivery-Game) |
+| 🐧 **PENGY**                 | (Android) Flutter로 개발한 재난대피 및 예방 교육용 어플. 💡 2024 Google Solution Challenge에서 전 세계 3000여 팀 중 Global Top 100 선정 | [바로가기](https://github.com/byeori-moon/GSCFront) |
+
+
+</div>
 
 -------
+
+<div align="left">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeori-moon&count_bg=%23FFDFF8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🔨 Skill 🔨
