@@ -58,13 +58,8 @@
 
 ## 🌟 Projects 🌟
 
+🌟 **캡스톤디자인 경진대회 대상 수상작** 🌟
 ### 🐾 PetDoctor
-
-<div align="center">
-
-  🌟 **경진대회 대상 수상작** 🌟
-
-</div>
 
 <table>
   <tbody>
