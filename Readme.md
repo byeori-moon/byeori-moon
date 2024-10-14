@@ -62,6 +62,14 @@
 
 <table style="border: 2px solid #EAEAEA; border-collapse: collapse; width: 100%; text-align: left;">
   <tbody>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>📝 Description</b></td>
+      <td style="padding: 10px; border: 1px solid #EAEAEA;">캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플</td>
+    </tr>
+    <tr style="background-color: #F5F5F5;">
+      <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>🏆 Highlight</b></td>
+      <td style="padding: 10px; border: 1px solid #EAEAEA;">🎖️ <b>캡스톤디자인 경진대회 대상 수상작</b></td>
+    </tr>
     <tr style="background-color: #F5F5F5;">
       <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>📱 Platform</b></td>
       <td style="padding: 10px; border: 1px solid #EAEAEA;"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"></td>
@@ -77,14 +85,6 @@
     <tr style="background-color: #F5F5F5;">
       <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>💼 Role</b></td>
       <td style="padding: 10px; border: 1px solid #EAEAEA;">Frontend Developer, Designer</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>📝 Description</b></td>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;">캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플</td>
-    </tr>
-    <tr style="background-color: #F5F5F5;">
-      <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>🏆 Highlight</b></td>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;">🎖️ <b>캡스톤디자인 경진대회 대상 수상작</b></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>📂 Repository</b></td>
@@ -111,12 +111,24 @@
 
 ---
 
-|           **🐧 PENGY**                |
-|---------------------------------------|
-| **Platform:** Android (Flutter)       |
-| **Description:** 재난대피 및 예방 교육용 어플        |
-| **Highlight:** <blockquote> **2024 Google Solution Challenge에서 전 세계 3000여 팀 중 Global Top 100 선정**  |
-| **Repository:** [🐧 PENGY 프로젝트 레포지토리🐧](https://github.com/byeori-moon/GSCFront) |
+### 🐧 PENGY
+
+|  |  |
+|--------------------|---------------------------------------------|
+| **Platform**       | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **Tools**          | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| **Role**           | Frontend Developer, Designer |
+| **Description**    | 재난대피 및 예방 교육을 위한 어플리케이션 |
+| **Highlight**      | 🎖️ **2024 Google Solution Challenge Global Top 100 선정 (3000+ 팀 중)** |
+| **Repository**     | [🐧 PENGY 프로젝트 레포지토리](https://github.com/byeori-moon/PENGY_Frontend) |
+
+> **📝 주요 역할**
+> - Flutter를 사용한 재난대피 시나리오와 교육용 콘텐츠의 UI/UX 개발
+> - 교육자료 및 콘텐츠 디자인 작업
+
+> **📈 주요 성과**
+> - AI 모델을 앱 내에 통합하여 실시간 객체 인식 구현
+> - 데이터 캐싱 최적화로 사용자 경험 개선 및 로딩 시간 단축
 
 ---
 
