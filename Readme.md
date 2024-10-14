@@ -57,7 +57,10 @@
 <br>
 
 
+# 👩‍💻 Algorithm 👩‍💻
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moongbyeol)](https://solved.ac/moongbyeol/)
 
+<br>
 
 
 # 🌟 Projects 🌟
@@ -216,14 +219,6 @@
   </tbody>
 </table>
 
-
-
-
-
-<br>
-
-# 👩‍💻 Algorithm 👩‍💻
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moongbyeol)](https://solved.ac/moongbyeol/)
 
 <br>
 
