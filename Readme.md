@@ -58,15 +58,29 @@
 
 ## 🌟 Projects 🌟
 
-### WEB/APP Projects
+### 🐾 PetDoctor - 반려동물 AI 진단 어플
 
-|           🐾 **PetDoctor**        |
-|----------------------------------|
-| **🎖️ 경진대회 대상 수상작**            |
-| **📱 Platform:** Android          |
-| **🛠️ Technology:** Flutter     |
-| 반려동물 피부질환 및 비만도 진단 어플  |
-| [🐾 PetDoctor 프로젝트 레포지토리🐾](https://github.com/username/PetDoctor) |
+|  |  |
+|--------------------|---------------------------------------------|
+| **Platform**       | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **Tools**          | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| **Role**           | Frontend Developer, Designer |
+| **Description**    | 캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플 |
+| **Highlight**      | 🎖️ **캡스톤디자인 경진대회 대상 수상작** |
+| **Repository**     | [🐾 PetDoctor 프로젝트 레포지토리](https://github.com/byeori-moon/PetDoctor_Frontend) |
+
+> **📝 주요 역할**
+> - Flutter를 활용한 UI/UX 개발 및 구현
+> - Figma를 통한 디자인 작업
+> - Android 플랫폼 기반 어플리케이션 제작
+
+> **📈 주요 성과**
+> - 이미지 업로드 최적화 및 AI 진단 대기 시간 7-8초로 단축
+> - 사용자 친화적 애니메이션을 통해 진단 대기 시간 시각화
+
+
+
+
 
 ---
 
