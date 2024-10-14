@@ -58,13 +58,12 @@
 
 ## 🌟 Projects 🌟
 
-<div style="border: 2px solid #FFD700; background-color: #FFF8DC; padding: 10px; border-radius: 8px; display: inline-block;">
-  <strong>🎖️ 캡스톤디자인 경진대회 대상 수상작 🎖️</strong>
-</div>
 
 ### 🐾 PetDoctor
 
-
+<div align="center" style="border: 2px solid #FFD700; padding: 10px; border-radius: 5px; background-color: #FFF8DC;">
+  <strong style="font-size: 18px;">🎖️ 캡스톤디자인 경진대회 대상 수상작 🎖️</strong>
+</div>
 
 <table>
   <tbody>
