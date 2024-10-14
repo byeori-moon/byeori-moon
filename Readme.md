@@ -60,7 +60,7 @@
 
 ### 🐾 PetDoctor
 
-<img src="https://img.shields.io/badge/Capstone_Award-Grand_Prize-FFD700?style=for-the-badge&logo=star&logoColor=white" alt="Capstone Award Badge" />
+<img src="https://img.shields.io/badge/캡스톤디자인_경진대회-대상_수상-FFD700?style=for-the-badge&logo=trophy&logoColor=white" alt="캡스톤디자인 경진대회 대상 수상" />
 
 <table>
   <tbody>
