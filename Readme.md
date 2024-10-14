@@ -60,35 +60,35 @@
 
 ### 🐾 PetDoctor - 반려동물 AI 진단 어플
 
-<table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<table>
   <tbody>
-    <tr style="background-color: #4CAF50; color: white;">
-      <td style="padding: 12px; border: none; font-weight: bold; text-align: left; width: 150px;">📱 Platform</td>
-      <td style="padding: 12px; border: none; text-align: left;"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"></td>
+    <tr>
+      <td><b>📝 About Project</b></td>
+      <td>캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플</td>
     </tr>
     <tr>
-      <td style="padding: 12px; background-color: #f9f9f9; font-weight: bold;">🛠️ Skills & Tools</td>
-      <td style="padding: 12px; background-color: #f9f9f9;">
+      <td><b>🏆 Highlight</b></td>
+      <td>🎖️ <b>캡스톤디자인 경진대회 대상 수상작</b></td>
+    </tr>
+    <tr>
+      <td><b>📱 Platform</b></td>
+      <td><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"></td>
+    </tr>
+    <tr>
+      <td><b>🛠️ Skills & Tools</b></td>
+      <td>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
       </td>
     </tr>
     <tr>
-      <td style="padding: 12px; font-weight: bold; text-align: left; width: 150px;">💼 Role</td>
-      <td style="padding: 12px; text-align: left;">Frontend Developer, Designer</td>
+      <td><b>💼 Role</b></td>
+      <td>Frontend Developer, Designer</td>
     </tr>
     <tr>
-      <td style="padding: 12px; background-color: #f9f9f9; font-weight: bold;">📝 Description</td>
-      <td style="padding: 12px; background-color: #f9f9f9;">캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; font-weight: bold; text-align: left; width: 150px;">🏆 Highlight</td>
-      <td style="padding: 12px; text-align: left;">🎖️ <b>캡스톤디자인 경진대회 대상 수상작</b></td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; background-color: #f9f9f9; font-weight: bold;">📂 Repository</td>
-      <td style="padding: 12px; background-color: #f9f9f9;"><a href="https://github.com/byeori-moon/PetDoctor_Frontend" style="color: #3DDC84; text-decoration: none;">🐾 PetDoctor 프로젝트 레포지토리</a></td>
+      <td><b>📂 Repository</b></td>
+      <td><a href="https://github.com/byeori-moon/PetDoctor_Frontend">🐾 PetDoctor 프로젝트 레포지토리</a></td>
     </tr>
   </tbody>
 </table>
@@ -105,6 +105,7 @@
 > **📈 주요 성과**
 > - 이미지 업로드 최적화 및 AI 진단 대기 시간 7-8초로 단축
 > - 사용자 친화적 애니메이션을 통해 진단 대기 시간 시각화
+
 
 ---
 
