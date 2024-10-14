@@ -58,10 +58,8 @@
 
 ### 🌟 Projects 🌟
 
-### 🌟 프로젝트 목록 🌟
-
-| 🐾 | **PetDoctor**             |
-|-----------------------------|
+| 🐾 **PetDoctor**             |
+|--------------|-------------|
 | **Platform**   | **Android (Flutter)**  |
 | **Description**   | 반려동물 피부질환/비만도 진단 어플  |
 | **Highlight**   | 💡 **Linc사업단 주최 캡스톤디자인 경진대회 대상 수상**  |
@@ -69,7 +67,7 @@
 
 ---
 
-| 🎮 | **3vs3 Bulls and Cows**   |
+| 🎮 **3vs3 Bulls and Cows**   |
 |-----------------------------|
 | **Platform**   | **Windows, Mac**  |
 | **Description**   | 3대3 멀티플레이 숫자야구 게임  |
@@ -78,7 +76,7 @@
 
 ---
 
-| 🚗 | **오늘은 푸앙이츠!**      |
+| 🚗 **오늘은 푸앙이츠!**      |
 |-----------------------------|
 | **Platform**   | **VR (Unity)**  |
 | **Description**   | Unity로 개발한 자동차 운전/배달 시뮬레이션 VR 게임  |
@@ -87,16 +85,13 @@
 
 ---
 
-| 🐧 | **PENGY**                 |
+| 🐧 **PENGY**                 |
 |-----------------------------|
 | **Platform**   | **Android (Flutter)**  |
 | **Description**   | 재난대피 및 예방 교육용 어플  |
 | **Highlight**   | 💡 **2024 Google Solution Challenge에서 Global Top 100 선정**  |
 | [프로젝트 링크](https://github.com/byeori-moon/GSCFront) |
 
-
-
-</div>
 
 
 
