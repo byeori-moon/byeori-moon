@@ -60,14 +60,43 @@
 
 ### 🐾 PetDoctor - 반려동물 AI 진단 어플
 
-|  |🐾 PetDoctor - 반려동물 AI 진단 어플  |
-|--------------------|---------------------------------------------|
-| **Platform**       | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
-| **Tools**          | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| **Role**           | Frontend Developer, Designer |
-| **Description**    | 캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플 |
-| **Highlight**      | 🎖️ **캡스톤디자인 경진대회 대상 수상작** |
-| **Repository**     | [🐾 PetDoctor 프로젝트 레포지토리](https://github.com/byeori-moon/PetDoctor_Frontend) |
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" style="background-color:#FFD700; font-size:20px; padding:10px; text-align:center;">🐾 PetDoctor - 반려동물 AI 진단 어플</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Platform</b></td>
+      <td><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></td>
+    </tr>
+    <tr>
+      <td><b>Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Role</b></td>
+      <td>Frontend Developer, Designer</td>
+    </tr>
+    <tr>
+      <td><b>Description</b></td>
+      <td>캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플</td>
+    </tr>
+    <tr>
+      <td><b>Highlight</b></td>
+      <td>🎖️ <b>캡스톤디자인 경진대회 대상 수상작</b></td>
+    </tr>
+    <tr>
+      <td><b>Repository</b></td>
+      <td><a href="https://github.com/byeori-moon/PetDoctor_Frontend">🐾 PetDoctor 프로젝트 레포지토리</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 > **📝 주요 역할**
 > - Flutter를 활용한 UI/UX 개발 및 구현
