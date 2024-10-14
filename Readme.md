@@ -63,45 +63,49 @@
 <table>
   <tbody>
     <tr>
-      <td><b>Platform</b></td>
-      <td><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android"></td>
-    </tr>
-    <tr>
-      <td><b>Skills & Tools</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
-      </td>
-    </tr>
-    <tr>
-      <td><b>Role</b></td>
-      <td>Frontend Developer, Designer</td>
-    </tr>
-    <tr>
-      <td><b>Description</b></td>
+      <td><b>📝 About Project</b></td>
       <td>캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플</td>
     </tr>
     <tr>
-      <td><b>Highlight</b></td>
+      <td><b>🏆 Highlight</b></td>
       <td>🎖️ <b>캡스톤디자인 경진대회 대상 수상작</b></td>
     </tr>
     <tr>
-      <td><b>Repository</b></td>
+      <td><b>📱 Platform</b></td>
+      <td><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"></td>
+    </tr>
+    <tr>
+      <td><b>🛠️ Skills & Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+      </td>
+    </tr>
+    <tr>
+      <td><b>💼 Role</b></td>
+      <td>Frontend Developer, Designer</td>
+    </tr>
+    <tr>
+      <td><b>📂 Repository</b></td>
       <td><a href="https://github.com/byeori-moon/PetDoctor_Frontend">🐾 PetDoctor 프로젝트 레포지토리</a></td>
     </tr>
   </tbody>
 </table>
 
+---
 
 > **📝 주요 역할**
 > - Flutter를 활용한 UI/UX 개발 및 구현
 > - Figma를 통한 디자인 작업
 > - Android 플랫폼 기반 어플리케이션 제작
 
+---
+
 > **📈 주요 성과**
 > - 이미지 업로드 최적화 및 AI 진단 대기 시간 7-8초로 단축
 > - 사용자 친화적 애니메이션을 통해 진단 대기 시간 시각화
+
 
 
 
