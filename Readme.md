@@ -60,35 +60,35 @@
 
 ### 🐾 PetDoctor - 반려동물 AI 진단 어플
 
-<table style="border: 2px solid #EAEAEA; border-collapse: collapse; width: 100%; text-align: left;">
+<table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <tbody>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>📝 Description</b></td>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;">캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플</td>
-    </tr>
-    <tr style="background-color: #F5F5F5;">
-      <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>🏆 Highlight</b></td>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;">🎖️ <b>캡스톤디자인 경진대회 대상 수상작</b></td>
-    </tr>
-    <tr style="background-color: #F5F5F5;">
-      <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>📱 Platform</b></td>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"></td>
+    <tr style="background-color: #4CAF50; color: white;">
+      <td style="padding: 12px; border: none; font-weight: bold; text-align: left; width: 150px;">📱 Platform</td>
+      <td style="padding: 12px; border: none; text-align: left;"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"></td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>🛠️ Skills & Tools</b></td>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;">
+      <td style="padding: 12px; background-color: #f9f9f9; font-weight: bold;">🛠️ Skills & Tools</td>
+      <td style="padding: 12px; background-color: #f9f9f9;">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
       </td>
     </tr>
-    <tr style="background-color: #F5F5F5;">
-      <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>💼 Role</b></td>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;">Frontend Developer, Designer</td>
+    <tr>
+      <td style="padding: 12px; font-weight: bold; text-align: left; width: 150px;">💼 Role</td>
+      <td style="padding: 12px; text-align: left;">Frontend Developer, Designer</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;"><b>📂 Repository</b></td>
-      <td style="padding: 10px; border: 1px solid #EAEAEA;"><a href="https://github.com/byeori-moon/PetDoctor_Frontend">🐾 PetDoctor 프로젝트 레포지토리</a></td>
+      <td style="padding: 12px; background-color: #f9f9f9; font-weight: bold;">📝 Description</td>
+      <td style="padding: 12px; background-color: #f9f9f9;">캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; font-weight: bold; text-align: left; width: 150px;">🏆 Highlight</td>
+      <td style="padding: 12px; text-align: left;">🎖️ <b>캡스톤디자인 경진대회 대상 수상작</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; background-color: #f9f9f9; font-weight: bold;">📂 Repository</td>
+      <td style="padding: 12px; background-color: #f9f9f9;"><a href="https://github.com/byeori-moon/PetDoctor_Frontend" style="color: #3DDC84; text-decoration: none;">🐾 PetDoctor 프로젝트 레포지토리</a></td>
     </tr>
   </tbody>
 </table>
@@ -100,14 +100,11 @@
 > - Figma를 통한 디자인 작업
 > - Android 플랫폼 기반 어플리케이션 제작
 
+---
 
 > **📈 주요 성과**
 > - 이미지 업로드 최적화 및 AI 진단 대기 시간 7-8초로 단축
 > - 사용자 친화적 애니메이션을 통해 진단 대기 시간 시각화
-
-
-
-
 
 ---
 
