@@ -58,17 +58,21 @@
 
 ## 🌟 Projects 🌟
 
-### 🐾 PetDoctor - 반려동물 AI 진단 어플
+### 🐾 PetDoctor
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%E2%AD%90%20캡스톤디자인%20경진대회-대상%20수상작-FFD700?style=for-the-badge" alt="Capstone Award Badge" />
+</div>
+
+---
 
 <table>
   <tbody>
     <tr>
       <td><b>📝 About Project</b></td>
       <td>캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플</td>
-    </tr>
-    <tr>
-      <td><b>🏆 Highlight</b></td>
-      <td>🎖️ <b>캡스톤디자인 경진대회 대상 수상작</b></td>
     </tr>
     <tr>
       <td><b>📱 Platform</b></td>
