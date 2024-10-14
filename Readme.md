@@ -3,12 +3,12 @@
 
 <div align="left">
 
+---
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeori-moon&count_bg=%23FFDFF8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
--------
-
-## 🔨 Skill 🔨
+# 🔨 Skill 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -54,23 +54,25 @@
     <div>
 </div><br>
 </div>
+<br>
 
 
-## 🌟 Projects 🌟
 
 
-### 🐾 PetDoctor
 
-<div align="center" style="border: 2px solid #FFD700; padding: 10px; border-radius: 5px; background-color: #FFF8DC;">
-  <strong style="font-size: 18px;">🎖️ 캡스톤디자인 경진대회 대상 수상작 🎖️</strong>
-</div>
+# 🌟 Projects 🌟
 
+## 🐾 PetDoctor
+| 🏆 2023 캡스톤디자인 경진대회 대상 수상작 |
+|:-----------------------------------:|
+> #### ```📝 About Project```
+> - 캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플
+> - Flutter를 활용한 UI/UX 개발 및 구현
+> - Figma를 통한 디자인 작업
+> - Android 플랫폼 기반 어플리케이션 제작
+> 
 <table>
   <tbody>
-    <tr>
-      <td><b>📝 About Project</b></td>
-      <td>캡스톤디자인 과목에서 학기작으로 개발한 반려동물 피부질환 및 비만도 AI 진단 어플</td>
-    </tr>
     <tr>
       <td><b>📱 Platform</b></td>
       <td><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"></td>
@@ -95,67 +97,137 @@
 </table>
 
 
+<br>
 
 
-> **📝 주요 역할**
+---
+
+
+## 🐧 PENGY
+| 🏆 2024 Google Solution Challenge Global Top 100 선정 (전 세계 3000여팀 이상 中) |
+|:-----------------------------------:|
+> #### ```📝 About Project```
+> - 실시간 Object Detection AI가 탑재된 카메라로 사진을 찍으면 화재 위험 요소들을 자동 파악 후 저장 및 주기적으로 관리할 수 있도록 돕는 앱
 > - Flutter를 활용한 UI/UX 개발 및 구현
 > - Figma를 통한 디자인 작업
 > - Android 플랫폼 기반 어플리케이션 제작
-
-
-> **📈 주요 성과**
-> - 이미지 업로드 최적화 및 AI 진단 대기 시간 7-8초로 단축
-> - 사용자 친화적 애니메이션을 통해 진단 대기 시간 시각화
+> 
+<table>
+  <tbody>
+    <tr>
+      <td><b>📱 Platform</b></td>
+      <td><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"></td>
+    </tr>
+    <tr>
+      <td><b>🛠️ Skills & Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+      </td>
+    </tr>
+    <tr>
+      <td><b>💼 Role</b></td>
+      <td>Frontend Developer, Designer</td>
+    </tr>
+    <tr>
+      <td><b>📂 Repository</b></td>
+      <td><a href="https://github.com/byeori-moon/PENGY_Frontend">🐧 PENGY 프로젝트 레포지토리</a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 
 ---
 
-### 🐧 PENGY
+## 🚗 오늘은 푸앙이츠!
+| 🌟 팀 프로젝트 평가 분반 내 1등 |
+|:-----------------------------------:|
+> #### ```📝 About Project```
+> - 가상증강혼합현실 과목에서 진행한 VR 게임 팀 프로젝트
+> - Unity로 개발한 자동차 운전/배달 시뮬레이션 VR 게임
+> - XR Interaction Toolkit을 사용해 VR 상호작용 시스템 구축
 
-|  |  |
-|--------------------|---------------------------------------------|
-| **Platform**       | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
-| **Tools**          | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-| **Role**           | Frontend Developer, Designer |
-| **Description**    | 재난대피 및 예방 교육을 위한 어플리케이션 |
-| **Highlight**      | 🎖️ **2024 Google Solution Challenge Global Top 100 선정 (3000+ 팀 중)** |
-| **Repository**     | [🐧 PENGY 프로젝트 레포지토리](https://github.com/byeori-moon/PENGY_Frontend) |
 
-> **📝 주요 역할**
-> - Flutter를 사용한 재난대피 시나리오와 교육용 콘텐츠의 UI/UX 개발
-> - 교육자료 및 콘텐츠 디자인 작업
+<table>
+  <tbody>
+    <tr>
+      <td><b>📱 Platform</b></td>
+      <td>
+          <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+          <img src="https://img.shields.io/badge/Oculus-1C1E21?style=flat-square&logo=oculus&logoColor=white" alt="Oculus">
+          <img src="https://img.shields.io/badge/VR-000000?style=flat-square&logo=vr&logoColor=white" alt="VR">
+      </td>
+    </tr>
+    <tr>
+      <td><b>🛠️ Skills & Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+        <img src="https://img.shields.io/badge/XR Interaction Toolkit-007ACC?style=flat-square&logo=unity&logoColor=white" alt="XR Interaction Toolkit">
+        <img src="https://img.shields.io/badge/Oculus SDK-1C1E21?style=flat-square&logo=oculus&logoColor=white" alt="Oculus SDK">
+      </td>
+    </tr>
+    <tr>
+      <td><b>💼 Role</b></td>
+      <td>Client Developer</td>
+    </tr>
+    <tr>
+      <td><b>📂 Repository</b></td>
+      <td><a href="https://github.com/byeori-moon/Delivery-Game">🚗오늘은 푸앙이츠! 프로젝트 레포지토리🚗</a></td>
+    </tr>
+  </tbody>
+</table>
 
-> **📈 주요 성과**
-> - AI 모델을 앱 내에 통합하여 실시간 객체 인식 구현
-> - 데이터 캐싱 최적화로 사용자 경험 개선 및 로딩 시간 단축
+<br>
 
 ---
 
-### 🚗 **오늘은 푸앙이츠!**
-| **Platform**          | VR (Unity)  |
-|----------------------|--------------------|
-| **Description**      | Unity로 개발한 자동차 운전/배달 시뮬레이션 VR 게임  |
-| **Highlight**        | XR Interaction Toolkit을 사용해 VR 상호작용 시스템 구축  |
-| **Repository**       | [🚗오늘은 푸앙이츠! 프로젝트 레포지토리🚗](https://github.com/byeori-moon/Delivery-Game) |
+## ⚾️ 3vs3 Bulls and Cows
+| 🎖️ 컴퓨터게임설계 과목 A+  |
+|:-----------------------------------:|
+> #### ```📝 About Project```
+> - 컴퓨터게임설계 과목에서 진행한 PvP 멀티 게임 3인 팀 프로젝트
 
----
+<table>
+  <tbody>
+    <tr>
+      <td><b>📱 Platform</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+      </td>
+    </tr>
+    <tr>
+      <td><b>🛠️ Skills & Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+        <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+      </td>
+    </tr>
+    <tr>
+      <td><b>💼 Role</b></td>
+      <td>Client Developer</td>
+    </tr>
+    <tr>
+      <td><b>📂 Repository</b></td>
+      <td><a href="https://github.com/byeori-moon/3vs3BullsAndCows">⚾️3vs3 Bulls and Cows 프로젝트 레포지토리⚾️</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### ⚾️ **3vs3 Bulls and Cows** 
-| **Platform**          | Windows, Mac  |
-|----------------------|--------------------|
-| **Description**      | PvP 멀티 숫자야구 게임  |
-| **Repository**       | [⚾️3vs3 Bulls and Cows 프로젝트 레포지토리⚾️](https://github.com/byeori-moon/3vs3BullsAndCows) |
 
 
 
 
- ## 👩‍💻 Algorithm 👩‍💻
+<br>
+
+# 👩‍💻 Algorithm 👩‍💻
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moongbyeol)](https://solved.ac/moongbyeol/)
 
+<br>
 
-
-
-## 📞 Contact 📞
+# 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:molang9876@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -167,5 +239,4 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeori-moon)
-
 
