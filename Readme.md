@@ -58,8 +58,11 @@
 
 ## 🌟 Projects 🌟
 
-### 🐾 PetDoctor <img src="https://img.shields.io/badge/캡스톤_경진대회-대상_수상작-4B0082?style=for-the-badge&logo=trophy&logoColor=FFD700" alt="Capstone Award Badge" />
+### 🐾 PetDoctor
 
+<div style="border: 2px solid #FFD700; background-color: #FFF8DC; padding: 10px; border-radius: 8px; display: inline-block;">
+  <strong>🎖️ 캡스톤디자인 경진대회 대상 수상작 🎖️</strong>
+</div>
 
 <table>
   <tbody>
