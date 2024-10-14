@@ -56,13 +56,14 @@
 </div>
 
 
-### 🌟 Projects 🌟
+## 🌟 Projects 🌟
 
- 🐾 **PetDoctor** 
+### 🐾 **PetDoctor** 
 | **Platform**   | **Android (Flutter)**  |
 |--------------|-------------|
 | **Description**   | 반려동물 피부질환/비만도 진단 어플  |
 | **Highlight**   | 💡 **Linc사업단 주최 캡스톤디자인 경진대회 대상 수상**  |
+|---------------------------|
 | [프로젝트 링크](https://github.com/byeori-moon/PetDoctor_Frontend) |
 
 
