@@ -58,7 +58,7 @@
 
 ### 🌟 Projects 🌟
 
-| 🐾 **PetDoctor**             |
+| 🐾 **PetDoctor** |            |
 |--------------|-------------|
 | **Platform**   | **Android (Flutter)**  |
 | **Description**   | 반려동물 피부질환/비만도 진단 어플  |
@@ -67,8 +67,8 @@
 
 ---
 
-| 🎮 **3vs3 Bulls and Cows**   |
-|-----------------------------|
+| 🎮 **3vs3 Bulls and Cows** |    |
+|---------------|--------------|
 | **Platform**   | **Windows, Mac**  |
 | **Description**   | 3대3 멀티플레이 숫자야구 게임  |
 | **Technology**   | **Photon Unity Networking 사용**  |
