@@ -73,7 +73,7 @@
 |---------------------------------------|
 | **Platform:** Android (Flutter)       |
 | **Description:** 재난대피 및 예방 교육용 어플        |
-| **Highlight:** > **2024 Google Solution Challenge에서 전 세계 3000여 팀 중 Global Top 100 선정**  |
+| **Highlight:** <blockquote> **2024 Google Solution Challenge에서 전 세계 3000여 팀 중 Global Top 100 선정**  |
 | **Repository:** [🐧 PENGY 프로젝트 레포지토리🐧](https://github.com/byeori-moon/GSCFront) |
 
 ---
