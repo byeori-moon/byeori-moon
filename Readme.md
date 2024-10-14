@@ -64,7 +64,7 @@
   <tbody>
     <tr>
       <td><b>Platform</b></td>
-      <td><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"></td>
+      <td><img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" alt="Android"></td>
     </tr>
     <tr>
       <td><b>Tools</b></td>
