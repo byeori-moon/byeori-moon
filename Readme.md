@@ -60,7 +60,7 @@
 
 ### 🐾 PetDoctor - 반려동물 AI 진단 어플
 
-|  |  |
+|  |🐾 PetDoctor - 반려동물 AI 진단 어플  |
 |--------------------|---------------------------------------------|
 | **Platform**       | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
 | **Tools**          | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
