@@ -135,7 +135,7 @@
     </tr>
     <tr>
       <td><b>📂 Repository</b></td>
-      <td><a href="https://github.com/byeori-moon/PENGY_Frontend">🐧 PENGY 프로젝트 레포지토리</a></td>
+      <td><a href="https://github.com/byeori-moon/GSCFront">🐧 PENGY 프로젝트 레포지토리</a></td>
     </tr>
   </tbody>
 </table>
